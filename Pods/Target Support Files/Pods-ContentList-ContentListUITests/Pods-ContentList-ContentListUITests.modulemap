@@ -1,0 +1,6 @@
+framework module Pods_ContentList_ContentListUITests {
+  umbrella header "Pods-ContentList-ContentListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ContentList {
+  umbrella header "Pods-ContentList-umbrella.h"
+
+  export *
+  module * { export * }
+}
