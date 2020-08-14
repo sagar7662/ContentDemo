@@ -102,6 +102,7 @@ class ContentCell: UITableViewCell {
 
     func configure() {
         selectionStyle = .none
+        accessoryType = .disclosureIndicator
         self.contentView.addSubview(idLabel)
         self.contentView.addSubview(dataLabel)
         self.contentView.addSubview(dateLabel)
